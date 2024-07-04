@@ -23,7 +23,7 @@ My personal portfolio is a collection of projects and works that showcase skills
 #
 <p>These page represent the projects details with the github link.</p>
 
-![Screenshot 1](images/project.jpg)
+![Screenshot 1](images/projects.jpg)
 
 #
 <p>These page represent the contact details.</p>
