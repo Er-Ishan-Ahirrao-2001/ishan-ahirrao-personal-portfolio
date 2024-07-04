@@ -15,3 +15,17 @@ My personal portfolio is a collection of projects and works that showcase skills
 
 ![Screenshot 1](images/experience.jpg)
 
+#
+<p>These page represent the education details.</p>
+
+![Screenshot 1](images/education.jpg)
+
+#
+<p>These page represent the projects details with the github link.</p>
+
+![Screenshot 1](images/projects.jpg)
+
+#
+<p>These page represent the contact details.</p>
+
+![Screenshot 1](images/contact.jpg)
